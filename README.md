@@ -1,4 +1,4 @@
-## Hi! Lê Thanh Đạt 👋
+<h1 align="center">Hi 👋, I'm Lê Thanh Đạt</h1>
 
 
 <!--
